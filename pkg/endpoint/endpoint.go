@@ -1,6 +1,6 @@
 package endpoint
 
-import "github.com/WiFeng/go-sky/sky-helloworld/pkg/service"
+import "github.com/WiFeng/go-sky-helloworld/pkg/service"
 
 // Endpoints ...
 type Endpoints struct {

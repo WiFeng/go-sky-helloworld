@@ -3,8 +3,8 @@ package http
 import (
 	"net/http"
 
-	"github.com/WiFeng/go-sky/sky-helloworld/pkg/endpoint"
-	skyhttp "github.com/WiFeng/go-sky/sky/http"
+	"github.com/WiFeng/go-sky-helloworld/pkg/endpoint"
+	skyhttp "github.com/WiFeng/go-sky/http"
 )
 
 // NewHandler returns an HTTP handler that makes a set of endpoints

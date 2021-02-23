@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/WiFeng/go-sky/sky-helloworld/pkg/service"
+	"github.com/WiFeng/go-sky-helloworld/pkg/service"
 )
 
 func decodeHTTPHelloSayRequest(ctx context.Context, r *http.Request) (interface{}, error) {

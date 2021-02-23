@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	skyredis "github.com/WiFeng/go-sky/sky/redis"
+	skyredis "github.com/WiFeng/go-sky/redis"
 )
 
 // HelloSayRequest ...

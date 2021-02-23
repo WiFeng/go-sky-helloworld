@@ -3,7 +3,7 @@ package endpoint
 import (
 	"context"
 
-	"github.com/WiFeng/go-sky/sky-helloworld/pkg/service"
+	"github.com/WiFeng/go-sky-helloworld/pkg/service"
 	kitendpoint "github.com/go-kit/kit/endpoint"
 )
 
